@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07b4ca4ab4d4440cbcd77871316606d7, type: 3}
+  m_Name: P006_FloatedCrate
+  m_EditorClassIdentifier: 
+  type: 6
+  pieceIcon: {fileID: 21300000, guid: 4b1e73edc01f473438bd4d3bd43ef7ca, type: 3}
+  pieceName: "\uBB3C \uC704 \uC0C1\uC790"
+  description: "\uCF54\uCF54\uB450\uAE30\uAC00 \uBC00\uC5B4\uC11C \uBB3C\uC5D0 \uB744\uC6B0\uB294
+    \uC0C1\uC790\uC5D0\uC694."
+  modelPrefab: {fileID: 5939108585846716739, guid: a0799616a69fc2842ab472d5486442b1, type: 3}
+  posType: 2
+  canMove: 1
+  hasTarget: 0
+  editorDescription: 

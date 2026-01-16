@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 689ba98777534283bcd1dd8b25d3c02a, type: 3}
+  m_Name: W002_Snow
+  m_EditorClassIdentifier: 
+  type: 2
+  weatherIcon: {fileID: 21300000, guid: e3ae275170ebd4a4f8a08fdf731b6aba, type: 3}
+  weatherName: "\uD3ED\uC124"
+  description: "\uB208\uC774  \uC313\uC5EC \uC313\uC778 \uB208\uC774 \uB418\uACE0
+    \uC77C\uBD80 \uBB3C\uC740 \uC5BC\uC74C\uC73C\uB85C \uBCC0\uD574\uC694."

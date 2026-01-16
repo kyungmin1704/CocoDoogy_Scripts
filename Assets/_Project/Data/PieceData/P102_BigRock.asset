@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07b4ca4ab4d4440cbcd77871316606d7, type: 3}
+  m_Name: P102_BigRock
+  m_EditorClassIdentifier: 
+  type: 102
+  pieceIcon: {fileID: 21300000, guid: 391f7e01c80194c40ba98347db9e60e3, type: 3}
+  pieceName: "\uD070 \uB3CC"
+  description: "\uD070 \uBC14\uC704\uAC00 \uAE38\uC744 \uB9C9\uC544\uC11C \uC9C0\uB098\uAC08
+    \uC218 \uC5C6\uC5B4\uC694."
+  modelPrefab: {fileID: 5131023332350491705, guid: 549cfe4bced303f4789568a74f84458d, type: 3}
+  posType: 2
+  canMove: 0
+  hasTarget: 0
+  editorDescription: 

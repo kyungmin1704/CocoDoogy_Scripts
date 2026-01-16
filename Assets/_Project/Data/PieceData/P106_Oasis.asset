@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07b4ca4ab4d4440cbcd77871316606d7, type: 3}
+  m_Name: P106_Oasis
+  m_EditorClassIdentifier: 
+  type: 106
+  pieceIcon: {fileID: 21300000, guid: 26f2b4047fb8fd94ca95b3a75f7d2f6d, type: 3}
+  pieceName: "\uC624\uC544\uC2DC\uC2A4"
+  description: "\uD2B9\uC815 \uB0A0\uC528\uC5D0 \uC0DD\uC131\uB418\uACE0 \uCD5C\uB300
+    \uD589\uB3D9\uB825 +1, \uD589\uB3D9\uB825 +1\uC744 \uC62C\uB824\uC90D\uB2C8\uB2E4."
+  modelPrefab: {fileID: 6347557197131124682, guid: cadaa24607ff6fd45a4356d6ab3f7bb3, type: 3}
+  posType: 2
+  canMove: 1
+  hasTarget: 0
+  editorDescription: 

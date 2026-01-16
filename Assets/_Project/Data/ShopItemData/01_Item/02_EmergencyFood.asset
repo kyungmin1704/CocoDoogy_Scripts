@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44f8a6fc52370d2409754e7635f3aa4a, type: 3}
+  m_Name: 02_EmergencyFood
+  m_EditorClassIdentifier: 
+  itemName: "\uBE44\uC0C1 \uC2DD\uB7C9"
+  itemSprite: {fileID: 21300000, guid: c872d02fa0fec574eb49f930ca82259a, type: 3}
+  purchasePrice: 10
+  itemDescription: "\uCF54\uCF54\uB450\uAE30\uAC00 \uBAB0\uB798 \uC544\uAEF4\uB454\n\uCD08\uACE0\uCE7C\uB85C\uB9AC
+    \uAC04\uC2DD.\n\n(\uD589\uB3D9\uB825 +1 \uD68C\uBCF5)"
+  itemId: item002
+  effect: 2

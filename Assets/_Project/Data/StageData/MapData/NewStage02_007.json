@@ -1,0 +1,601 @@
+﻿{
+    "RefillCount": 3,
+    "ActionPoint": 6,
+    "DefaultWeather": 0,
+    "StartPos": {
+        "x": -3,
+        "y": -1
+    },
+    "EndPos": {
+        "x": -1,
+        "y": -1
+    },
+    "Tiles": [
+        {
+            "Type": 1,
+            "GridPos": {
+                "x": -2,
+                "y": -2
+            },
+            "Pieces": [
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                }
+            ]
+        },
+        {
+            "Type": 1,
+            "GridPos": {
+                "x": -2,
+                "y": -3
+            },
+            "Pieces": [
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 4,
+                    "LookDirection": 0,
+                    "Data": "True"
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                }
+            ]
+        },
+        {
+            "Type": 1,
+            "GridPos": {
+                "x": -3,
+                "y": -1
+            },
+            "Pieces": [
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                }
+            ]
+        },
+        {
+            "Type": 1,
+            "GridPos": {
+                "x": -1,
+                "y": -1
+            },
+            "Pieces": [
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                }
+            ]
+        },
+        {
+            "Type": 1,
+            "GridPos": {
+                "x": -1,
+                "y": 0
+            },
+            "Pieces": [
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                }
+            ]
+        },
+        {
+            "Type": 1,
+            "GridPos": {
+                "x": -2,
+                "y": 1
+            },
+            "Pieces": [
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                }
+            ]
+        },
+        {
+            "Type": 1,
+            "GridPos": {
+                "x": -1,
+                "y": 2
+            },
+            "Pieces": [
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 4,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                }
+            ]
+        },
+        {
+            "Type": 4,
+            "GridPos": {
+                "x": -1,
+                "y": -2
+            },
+            "Pieces": [
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                }
+            ]
+        },
+        {
+            "Type": 4,
+            "GridPos": {
+                "x": -2,
+                "y": -1
+            },
+            "Pieces": [
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                }
+            ]
+        },
+        {
+            "Type": 4,
+            "GridPos": {
+                "x": -2,
+                "y": 0
+            },
+            "Pieces": [
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                }
+            ]
+        },
+        {
+            "Type": 4,
+            "GridPos": {
+                "x": -3,
+                "y": 1
+            },
+            "Pieces": [
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                }
+            ]
+        },
+        {
+            "Type": 4,
+            "GridPos": {
+                "x": -2,
+                "y": 2
+            },
+            "Pieces": [
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                }
+            ]
+        },
+        {
+            "Type": 4,
+            "GridPos": {
+                "x": -2,
+                "y": 3
+            },
+            "Pieces": [
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                },
+                {
+                    "Type": 0,
+                    "LookDirection": 0,
+                    "Data": ""
+                }
+            ]
+        }
+    ],
+    "Gimmicks": [],
+    "PieceToTargets": [
+        {
+            "PiecePos": {
+                "x": -2,
+                "y": -3
+            },
+            "TargetPos": {
+                "x": -1,
+                "y": 2
+            }
+        }
+    ],
+    "Weathers": []
+}

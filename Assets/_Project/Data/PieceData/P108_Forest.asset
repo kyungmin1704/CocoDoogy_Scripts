@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07b4ca4ab4d4440cbcd77871316606d7, type: 3}
+  m_Name: P108_Forest
+  m_EditorClassIdentifier: 
+  type: 108
+  pieceIcon: {fileID: 21300000, guid: 6b4db64e5e133404083dab6d9f08aea5, type: 3}
+  pieceName: "\uC232"
+  description: "\uB098\uBB34\uAC00 \uC6B8\uCC3D\uD558\uAC8C \uC790\uB77C \uC9C0\uB098\uAC08
+    \uC218 \uC5C6\uC5B4\uC694."
+  modelPrefab: {fileID: 964674013998319531, guid: e1c9fb467e91b3f48a4a6fec4eebe244, type: 3}
+  posType: 2
+  canMove: 0
+  hasTarget: 0
+  editorDescription: 

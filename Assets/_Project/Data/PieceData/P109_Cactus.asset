@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07b4ca4ab4d4440cbcd77871316606d7, type: 3}
+  m_Name: P109_Cactus
+  m_EditorClassIdentifier: 
+  type: 109
+  pieceIcon: {fileID: 21300000, guid: 14c9bc2ba5ecf254089cdd13b5c8b496, type: 3}
+  pieceName: "\uC120\uC778\uC7A5"
+  modelPrefab: {fileID: 964674013998319531, guid: b17ff4d3b56a14c42afc0d7d4670ec6d, type: 3}
+  posType: 1
+  canMove: 0
+  hasTarget: 0
+  editorDescription: 

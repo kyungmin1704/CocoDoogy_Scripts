@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e8652fa0eb843e99ac833b53eebf861, type: 3}
+  m_Name: T006_Snow
+  m_EditorClassIdentifier: 
+  type: 6
+  tileIcon: {fileID: 21300000, guid: 09d4eb6a31a1cce4aa36988341a9fb52, type: 3}
+  tileName: "\uB208"
+  description: "\uD3ED\uC124\uC774 \uC624\uBA74 \uC313\uC778\uB208\uC73C\uB85C \uBCC0\uD560
+    \uC218 \uC788\uC5B4\uC694."
+  modelPrefab: {fileID: 2477623363409506838, guid: 5e0ff8dfa8841c84a8a81fa5e64709a4, type: 3}
+  canMove: 1
+  moveType: 1
+  moveCost: 1
+  stepVfx: 0
+  stepSfx: 11
+  editorDescription: 

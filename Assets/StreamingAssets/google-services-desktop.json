@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "285118742247",
+    "firebase_url": "https://ft03-cocodoogy-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ft03-cocodoogy",
+    "storage_bucket": "ft03-cocodoogy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285118742247:android:ecd66e2d79dbb8c7062c42",
+        "android_client_info": {
+          "package_name": "com.kickstarterpirate.cocodoogy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285118742247-a8uj2qh8j11u58qdkopebj7jbs2i6mcq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kickstarterpirate.cocodoogy",
+            "certificate_hash": "3422940a252c035e6d14be6ec1b80ba45233f810"
+          }
+        },
+        {
+          "client_id": "285118742247-qfbhhk07114e287uu9b7pcj8kk7brotf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCY93jbpuvAri-pNNn95ynOBDCAJ8iZZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285118742247-qfbhhk07114e287uu9b7pcj8kk7brotf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

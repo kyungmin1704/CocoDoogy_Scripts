@@ -1,0 +1,511 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c14688eb1f0beb40baa67ecac3eb587, type: 3}
+  m_Name: SfxListData
+  m_EditorClassIdentifier: 
+  sfxList:
+  - type: 1
+    eventReference:
+      Guid:
+        Data1: -345683676
+        Data2: 1220902991
+        Data3: 1237489546
+        Data4: 747204544
+      Path: event:/SFX/Interaction/LeverOn
+  - type: 2
+    eventReference:
+      Guid:
+        Data1: 94867625
+        Data2: 1245112528
+        Data3: 1244384956
+        Data4: -574479178
+      Path: event:/SFX/Interaction/LeverOff
+  - type: 3
+    eventReference:
+      Guid:
+        Data1: -1713403218
+        Data2: 1252982623
+        Data3: 1900329914
+        Data4: -1876803356
+      Path: event:/SFX/Interaction/SwitchOn
+  - type: 4
+    eventReference:
+      Guid:
+        Data1: 1755327612
+        Data2: 1224176504
+        Data3: 1531076757
+        Data4: -496202047
+      Path: event:/SFX/Interaction/SwitchOff
+  - type: 5
+    eventReference:
+      Guid:
+        Data1: -797451051
+        Data2: 1236502852
+        Data3: -747991890
+        Data4: -1657329013
+      Path: event:/SFX/Interaction/PressurePlate
+  - type: 6
+    eventReference:
+      Guid:
+        Data1: -911902704
+        Data2: 1087274748
+        Data3: -784333152
+        Data4: -1659654017
+      Path: event:/SFX/Interaction/PushChest
+  - type: 7
+    eventReference:
+      Guid:
+        Data1: -1312782658
+        Data2: 1203322386
+        Data3: -597267544
+        Data4: -364614203
+      Path: event:/SFX/Interaction/Sliding
+  - type: 8
+    eventReference:
+      Guid:
+        Data1: -1477248628
+        Data2: 1104972064
+        Data3: -1193015105
+        Data4: -297068842
+      Path: event:/SFX/Interaction/WaterSplash
+  - type: 9
+    eventReference:
+      Guid:
+        Data1: 998630776
+        Data2: 1174227011
+        Data3: -1561604718
+        Data4: 259117023
+      Path: event:/SFX/Footstep/Water
+  - type: 10
+    eventReference:
+      Guid:
+        Data1: 1741829481
+        Data2: 1097456035
+        Data3: 1041627781
+        Data4: 1122355674
+      Path: event:/SFX/Footstep/Grass
+  - type: 11
+    eventReference:
+      Guid:
+        Data1: -1820351225
+        Data2: 1308382196
+        Data3: 112681908
+        Data4: 840734645
+      Path: event:/SFX/Footstep/Snow
+  - type: 12
+    eventReference:
+      Guid:
+        Data1: 981998330
+        Data2: 1139156831
+        Data3: -642995065
+        Data4: 192538791
+      Path: event:/SFX/Footstep/Sand
+  - type: 13
+    eventReference:
+      Guid:
+        Data1: 887947965
+        Data2: 1116254560
+        Data3: -472895057
+        Data4: 1906534427
+      Path: event:/SFX/Footstep/Wood
+  - type: 14
+    eventReference:
+      Guid:
+        Data1: -1787977346
+        Data2: 1139375707
+        Data3: -116805491
+        Data4: -289967193
+      Path: event:/SFX/Footstep/Dirt
+  - type: 15
+    eventReference:
+      Guid:
+        Data1: 722811114
+        Data2: 1250327366
+        Data3: -448214089
+        Data4: 1754502556
+      Path: event:/SFX/Gimmick/HouseEnter
+  - type: 16
+    eventReference:
+      Guid:
+        Data1: 1608868788
+        Data2: 1208935594
+        Data3: 1175306388
+        Data4: 548421215
+      Path: event:/SFX/Gimmick/OasisEnter
+  - type: 17
+    eventReference:
+      Guid:
+        Data1: -1066255062
+        Data2: 1338060809
+        Data3: -1693227122
+        Data4: -1986992765
+      Path: event:/SFX/Gimmick/DockEnter
+  - type: 18
+    eventReference:
+      Guid:
+        Data1: 1357634068
+        Data2: 1086377614
+        Data3: -2002998122
+        Data4: -416707576
+      Path: event:/SFX/Gimmick/ObjectDestroy
+  - type: 19
+    eventReference:
+      Guid:
+        Data1: -433173105
+        Data2: 1144648109
+        Data3: -634253410
+        Data4: 929048291
+      Path: event:/SFX/Gimmick/ObjectSpawn
+  - type: 20
+    eventReference:
+      Guid:
+        Data1: -764565932
+        Data2: 1256533841
+        Data3: 569232057
+        Data4: -1720255136
+      Path: event:/SFX/Gimmick/Farm
+  - type: 21
+    eventReference:
+      Guid:
+        Data1: 580505832
+        Data2: 1297628006
+        Data3: -2051687758
+        Data4: -416345677
+      Path: event:/SFX/Gimmick/Mechanical
+  - type: 22
+    eventReference:
+      Guid:
+        Data1: 1595957532
+        Data2: 1263970614
+        Data3: -1152263775
+        Data4: 1971873961
+      Path: event:/SFX/Weather/Clear
+  - type: 23
+    eventReference:
+      Guid:
+        Data1: -1386827239
+        Data2: 1225893509
+        Data3: -1540770173
+        Data4: -1835377869
+      Path: event:/SFX/Weather/Rain
+  - type: 24
+    eventReference:
+      Guid:
+        Data1: -1465955396
+        Data2: 1140725119
+        Data3: 658289052
+        Data4: -1665990607
+      Path: event:/SFX/Weather/Snow
+  - type: 25
+    eventReference:
+      Guid:
+        Data1: -1127212899
+        Data2: 1319373650
+        Data3: 83554486
+        Data4: -605360083
+      Path: event:/SFX/Weather/Wind
+  - type: 26
+    eventReference:
+      Guid:
+        Data1: -1293081751
+        Data2: 1239288175
+        Data3: 314958759
+        Data4: 304266229
+      Path: event:/SFX/Weather/Hail
+  - type: 27
+    eventReference:
+      Guid:
+        Data1: -1962054361
+        Data2: 1123200055
+        Data3: 1942296732
+        Data4: -1015552341
+      Path: event:/SFX/Weather/Mirage
+  - type: 28
+    eventReference:
+      Guid:
+        Data1: 388533925
+        Data2: 1318692388
+        Data3: -975551587
+        Data4: -517404191
+      Path: event:/SFX/Minigame/PickTrash
+  - type: 29
+    eventReference:
+      Guid:
+        Data1: -838749182
+        Data2: 1244315782
+        Data3: -1820961115
+        Data4: 1127614293
+      Path: event:/SFX/Minigame/DropTrash
+  - type: 30
+    eventReference:
+      Guid:
+        Data1: -1164134178
+        Data2: 1314039632
+        Data3: -1092576619
+        Data4: 734757826
+      Path: event:/SFX/Minigame/PickCloth
+  - type: 31
+    eventReference:
+      Guid:
+        Data1: 1908865576
+        Data2: 1237541481
+        Data3: -494481524
+        Data4: 693025113
+      Path: event:/SFX/Minigame/DropCloth
+  - type: 32
+    eventReference:
+      Guid:
+        Data1: 496740920
+        Data2: 1221459681
+        Data3: 1407252130
+        Data4: 1948356037
+      Path: event:/SFX/Minigame/DigSand
+  - type: 33
+    eventReference:
+      Guid:
+        Data1: 1096118123
+        Data2: 1223067760
+        Data3: -967988599
+        Data4: -1920585955
+      Path: event:/SFX/Minigame/ShakeUmbrella
+  - type: 34
+    eventReference:
+      Guid:
+        Data1: 533878779
+        Data2: 1330680484
+        Data3: 875545235
+        Data4: -216566990
+      Path: event:/SFX/Minigame/PickLeaf
+  - type: 35
+    eventReference:
+      Guid:
+        Data1: 1161050222
+        Data2: 1326537975
+        Data3: -1027401331
+        Data4: -1153717686
+      Path: event:/SFX/Minigame/MinigameStart
+  - type: 36
+    eventReference:
+      Guid:
+        Data1: -2114967419
+        Data2: 1188394001
+        Data3: -1264829044
+        Data4: 1792253202
+      Path: event:/SFX/Minigame/TouchTrashCan
+  - type: 37
+    eventReference:
+      Guid:
+        Data1: 763221275
+        Data2: 1216892797
+        Data3: -1632893505
+        Data4: -2023603027
+      Path: event:/SFX/UI/SuccessMission
+  - type: 38
+    eventReference:
+      Guid:
+        Data1: 1645129604
+        Data2: 1117692771
+        Data3: 757492373
+        Data4: 819175566
+      Path: event:/SFX/UI/SuccessStage
+  - type: 39
+    eventReference:
+      Guid:
+        Data1: 1674907627
+        Data2: 1239063645
+        Data3: 1466712472
+        Data4: -12926232
+      Path: event:/SFX/UI/Success
+  - type: 40
+    eventReference:
+      Guid:
+        Data1: -1777075120
+        Data2: 1146715641
+        Data3: 1609997197
+        Data4: -842941399
+      Path: event:/SFX/UI/FailStage
+  - type: 41
+    eventReference:
+      Guid:
+        Data1: 1952342693
+        Data2: 1159958890
+        Data3: -993283967
+        Data4: 903448127
+      Path: event:/SFX/UI/ButtonDown
+  - type: 42
+    eventReference:
+      Guid:
+        Data1: 86252079
+        Data2: 1167745429
+        Data3: 2116558465
+        Data4: -1147205353
+      Path: event:/SFX/UI/ButtonUp1
+  - type: 43
+    eventReference:
+      Guid:
+        Data1: 1440921346
+        Data2: 1087163163
+        Data3: 1636548000
+        Data4: -1687639625
+      Path: event:/SFX/UI/ButtonUp2
+  - type: 44
+    eventReference:
+      Guid:
+        Data1: 136054408
+        Data2: 1176063772
+        Data3: -33167702
+        Data4: 301100124
+      Path: event:/SFX/UI/PopUp
+  - type: 45
+    eventReference:
+      Guid:
+        Data1: -208364833
+        Data2: 1164909318
+        Data3: -1925124679
+        Data4: -313601337
+      Path: event:/SFX/UI/FailButton1
+  - type: 46
+    eventReference:
+      Guid:
+        Data1: -109669989
+        Data2: 1301717389
+        Data3: -1426501446
+        Data4: 387942313
+      Path: event:/SFX/UI/FailButton2
+  - type: 47
+    eventReference:
+      Guid:
+        Data1: 1988822549
+        Data2: 1078202561
+        Data3: 2111314573
+        Data4: 188919379
+      Path: event:/SFX/UI/ClearStar1
+  - type: 48
+    eventReference:
+      Guid:
+        Data1: -1412584869
+        Data2: 1134014045
+        Data3: 1560683927
+        Data4: 509116362
+      Path: event:/SFX/UI/ClearStar2
+  - type: 49
+    eventReference:
+      Guid:
+        Data1: -531041966
+        Data2: 1103160296
+        Data3: 1178725038
+        Data4: 1419265334
+      Path: event:/SFX/UI/ClearStar3
+  - type: 50
+    eventReference:
+      Guid:
+        Data1: -1849949739
+        Data2: 1311135694
+        Data3: 1675256765
+        Data4: 1220435265
+      Path: event:/SFX/UI/Reset
+  - type: 51
+    eventReference:
+      Guid:
+        Data1: -466790381
+        Data2: 1083001024
+        Data3: 1739776697
+        Data4: 352098150
+      Path: event:/SFX/Emote/Positive
+  - type: 52
+    eventReference:
+      Guid:
+        Data1: 1357268756
+        Data2: 1079850610
+        Data3: 910332082
+        Data4: 1423735083
+      Path: event:/SFX/Emote/Neutral
+  - type: 53
+    eventReference:
+      Guid:
+        Data1: -1621085955
+        Data2: 1189864900
+        Data3: 684788632
+        Data4: -1032527471
+      Path: event:/SFX/Emote/Negative
+  - type: 54
+    eventReference:
+      Guid:
+        Data1: 1453845704
+        Data2: 1182693635
+        Data3: 1074665638
+        Data4: -1505693045
+      Path: event:/SFX/Item/Eating
+  - type: 55
+    eventReference:
+      Guid:
+        Data1: 98275391
+        Data2: 1272797601
+        Data3: 680341935
+        Data4: -2037559477
+      Path: event:/SFX/Item/TentDrop
+  - type: 56
+    eventReference:
+      Guid:
+        Data1: 594341088
+        Data2: 1106816092
+        Data3: 877106570
+        Data4: -1713391213
+      Path: event:/SFX/Item/Undo
+  - type: 57
+    eventReference:
+      Guid:
+        Data1: 466490915
+        Data2: 1223986828
+        Data3: -540361584
+        Data4: -1574759060
+      Path: event:/SFX/Item/Tent
+  - type: 58
+    eventReference:
+      Guid:
+        Data1: -1319903844
+        Data2: 1138011343
+        Data3: 830194830
+        Data4: 317347031
+      Path: event:/SFX/Item/Recovery
+  - type: 59
+    eventReference:
+      Guid:
+        Data1: -1508285114
+        Data2: 1133460108
+        Data3: -337316677
+        Data4: 279204905
+      Path: event:/SFX/Item/RestorePoint
+  - type: 60
+    eventReference:
+      Guid:
+        Data1: 959362011
+        Data2: 1256166516
+        Data3: -1855122812
+        Data4: -2017158413
+      Path: event:/SFX/Item/DogSleeping
+  - type: 61
+    eventReference:
+      Guid:
+        Data1: -1012921921
+        Data2: 1098977815
+        Data3: 1087699333
+        Data4: 1877176503
+      Path: event:/SFX/Loop/Detecting
+  - type: 62
+    eventReference:
+      Guid:
+        Data1: -1830622457
+        Data2: 1247549110
+        Data3: 779273139
+        Data4: -422208072
+      Path: event:/SFX/Loop/ShakeUmbrella

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e8652fa0eb843e99ac833b53eebf861, type: 3}
+  m_Name: T004_Water
+  m_EditorClassIdentifier: 
+  type: 4
+  tileIcon: {fileID: 21300000, guid: 28a64591f588de6408905368f409eace, type: 3}
+  tileName: "\uBB3C"
+  description: "\uC9C1\uC811 \uC774\uB3D9\uD560 \uC218 \uC5C6\uC5B4\uC694."
+  modelPrefab: {fileID: 255426626835148585, guid: ac19be4005587f34d8686bbd7a145c3e, type: 3}
+  canMove: 0
+  moveType: 1
+  moveCost: 1
+  stepVfx: 0
+  stepSfx: 9
+  editorDescription: 

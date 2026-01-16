@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e8652fa0eb843e99ac833b53eebf861, type: 3}
+  m_Name: T007_HeavySnow
+  m_EditorClassIdentifier: 
+  type: 7
+  tileIcon: {fileID: 21300000, guid: 7504510faa747514c9d726a68312f0bf, type: 3}
+  tileName: "\uC313\uC778 \uB208"
+  description: "\uB208\uC774 \uC313\uC5EC \uC774\uB3D9\uD560 \uC218 \uC5C6\uC5B4\uC694."
+  modelPrefab: {fileID: 2477623363409506838, guid: dafa3f2ea9b29084eb27e62e1333cdc3, type: 3}
+  canMove: 0
+  moveType: 1
+  moveCost: 1
+  stepVfx: 0
+  stepSfx: 11
+  editorDescription: 

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbd6b9f83fd077a44b007159fb1c8457, type: 3}
+  m_Name: 04-09
+  m_EditorClassIdentifier: 
+  theme: 8
+  index: 9
+  stageName: 4-9
+  mapData: {fileID: 4900000, guid: 4ddeb0029f5edca479f63d3f253aaa7f, type: 3}
+  starThresholds: 020000000300000004000000
+  tileData:
+  - {fileID: 11400000, guid: 0e2c8b312dcb6b64fb128855ad2758c5, type: 2}
+  - {fileID: 11400000, guid: dc8a330fa474952409900717bdb611e9, type: 2}
+  pieceData: []
+  weatherData:
+  - {fileID: 11400000, guid: b9f99e3a48fb58043912f42b203837be, type: 2}

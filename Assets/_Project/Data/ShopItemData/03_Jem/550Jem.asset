@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44f8a6fc52370d2409754e7635f3aa4a, type: 3}
+  m_Name: 550Jem
+  m_EditorClassIdentifier: 
+  itemName: "\uC18C\uD615 \uC7BC (550\uAC1C)"
+  itemSprite: {fileID: 21300000, guid: 914f2a4238890ab4c9ddcf63aa491a29, type: 3}
+  purchasePrice: 5500
+  itemDescription: "\uC18C\uD615 \uC7BC\n\n\uB450\uAE30 \uC7BC 550\uAC1C.\n\uC544\uC774\uD15C
+    \uB610\uB294 \uCF54\uCF54 \uB3C4\uC7A5\uC744\n\uAD6C\uB9E4\uD560 \uC218 \uC788\uC2B5\uB2C8\uB2E4."
+  itemId: cashMoney550
+  effect: 0

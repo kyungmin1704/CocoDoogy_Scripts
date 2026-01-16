@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8990c0d4eef8fc4ebf3a570cf6e6ae9, type: 3}
+  m_Name: "\uC232\uD504\uB9AC\uC14B"
+  m_EditorClassIdentifier: 
+  bakedLighting: {fileID: 4890085278179872738, guid: 66e03ff4dd8ca494ca65d27ab4eba063, type: 2}
+  skybox: {fileID: 2100000, guid: a939e8f3764c8ed419521d4afae65a59, type: 2}
+  ambientMode: 0
+  ambientSkyColor: {r: 0.42745098, g: 0.4627451, b: 0.69803923, a: 1}
+  ambientEquatorColor: {r: 0.114, g: 0.125, b: 0.133, a: 1}
+  ambientGroundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
+  useFog: 1
+  fogMode: 1
+  fogColor: {r: 0.5882353, g: 0.6666667, b: 0.6901961, a: 1}
+  fogDensity: 0.01
+  fogStart: 5
+  fogEnd: 150
+  sun: {fileID: 727147191176654242, guid: e06906c0c6fa1224d9e002da5b7ded8d, type: 3}
+  subtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
+  haloStrength: 0.5
+  flareStrength: 1
+  flareFadeSpeed: 3

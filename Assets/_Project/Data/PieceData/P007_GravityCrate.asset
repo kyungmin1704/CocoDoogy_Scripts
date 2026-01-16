@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07b4ca4ab4d4440cbcd77871316606d7, type: 3}
+  m_Name: P007_GravityCrate
+  m_EditorClassIdentifier: 
+  type: 7
+  pieceIcon: {fileID: 21300000, guid: d5768ba78266cb74d844204567f0a4c5, type: 3}
+  pieceName: "\uBC1C\uD310 \uC704 \uC0C1\uC790"
+  description: "\uBC1C\uD310\uC704\uC5D0 \uC0C1\uC790\uB97C \uC62C\uB9B4\uC218\uAC00
+    \uC788\uC5B4\uC694."
+  modelPrefab: {fileID: 5939108585846716739, guid: a487f0b501c01264caba24277e0d0bc5, type: 3}
+  posType: 2
+  canMove: 1
+  hasTarget: 0
+  editorDescription: 

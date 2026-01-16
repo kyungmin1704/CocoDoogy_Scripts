@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07b4ca4ab4d4440cbcd77871316606d7, type: 3}
+  m_Name: P002_Button
+  m_EditorClassIdentifier: 
+  type: 2
+  pieceIcon: {fileID: 21300000, guid: cf7d9b9328823be428d50060c5810871, type: 3}
+  pieceName: "\uBC84\uD2BC"
+  modelPrefab: {fileID: 4728180881813035256, guid: 2f45dc674df114342a9f7fc038df3733, type: 3}
+  posType: 2
+  canMove: 1
+  hasTarget: 0
+  editorDescription: 

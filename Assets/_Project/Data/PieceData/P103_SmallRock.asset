@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07b4ca4ab4d4440cbcd77871316606d7, type: 3}
+  m_Name: P103_SmallRock
+  m_EditorClassIdentifier: 
+  type: 103
+  pieceIcon: {fileID: 21300000, guid: d518cdf7a4a40d04aa5f08abcd908f76, type: 3}
+  pieceName: "\uC791\uC740 \uB3CC"
+  description: "\uC791\uC740 \uBC14\uC704\uC9C0\uB9CC \uAE38\uC744 \uB9C9\uACE0\uC788\uC5B4
+    \uC9C0\uB098\uAC08 \uC218 \uC5C6\uC5B4\uC694."
+  modelPrefab: {fileID: 875035437898594310, guid: c2d6ad5a50c6f944da18cd8b49e6be54, type: 3}
+  posType: 1
+  canMove: 0
+  hasTarget: 0
+  editorDescription: 

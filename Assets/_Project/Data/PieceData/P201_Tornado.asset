@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07b4ca4ab4d4440cbcd77871316606d7, type: 3}
+  m_Name: P201_Tornado
+  m_EditorClassIdentifier: 
+  type: 201
+  pieceIcon: {fileID: 21300000, guid: 491000398c8d0f14c8b875a5dd233b83, type: 3}
+  pieceName: "\uD1A0\uB124\uC774\uB3C4"
+  description: "\uB9F5 \uACF3\uACF3\uC5D0 \uD1A0\uB124\uC774\uB3C4\uAC00 \uC0DD\uACA8\uC694.
+    \uD0C0\uBA74 \uD2B9\uC815 \uC9C0\uC5ED\uC73C\uB85C \uAC00\uC694"
+  modelPrefab: {fileID: 6347557197131124682, guid: 85a31f4c50ced9c46bfc911f47189854, type: 3}
+  posType: 2
+  canMove: 1
+  hasTarget: 1
+  editorDescription: 
